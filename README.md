@@ -1,5 +1,6 @@
 # Java-projects
 All of my Java projects
+
 Vending Machine:
 A Java project that taught me how to build menus and how to use objects. It uses a logger to track purchases and can uses oop to give each properties to the various snacks.
 This project was very rough around the edges, but I love it because it shows where I began as a programmer. I worked on this project with Dughlas Hashbarger
